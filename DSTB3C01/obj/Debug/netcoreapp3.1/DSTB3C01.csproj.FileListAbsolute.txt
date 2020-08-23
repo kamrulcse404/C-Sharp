@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\DSTB3C01.exe
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\DSTB3C01.deps.json
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\DSTB3C01.runtimeconfig.json
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\DSTB3C01.runtimeconfig.dev.json
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\DSTB3C01.dll
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\DSTB3C01.pdb
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\obj\Debug\netcoreapp3.1\DSTB3C01.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\obj\Debug\netcoreapp3.1\DSTB3C01.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\obj\Debug\netcoreapp3.1\DSTB3C01.AssemblyInfo.cs
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\obj\Debug\netcoreapp3.1\DSTB3C01.dll
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\obj\Debug\netcoreapp3.1\DSTB3C01.pdb
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\user\source\repos\DSTB3C01\DSTB3C01\obj\Debug\netcoreapp3.1\DSTB3C01.csproj.CopyComplete
